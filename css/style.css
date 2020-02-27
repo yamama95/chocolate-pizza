@@ -1,0 +1,47 @@
+.fa-twitter {
+    background-color: black;
+    color: white;
+}
+    
+    .fa {
+        padding: 20px;
+        font-size: 30px;
+        width: 50px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+      }
+      
+
+.fa-rss {
+        background-color: black;
+        color: white;
+      }
+
+      .fa-reddit {
+        background-color: black;
+        color: white;
+      }
+
+      .fa-flickr {
+        background-color: black;
+        color: white;
+      }
+      
+      #box {
+          background-color: blue;
+            background-image: url("https://github.com/yamama95/amman-201d3/blob/master/class-10/lab-a/lab-assets/list-bg.png?raw=true");
+            background-size:cover ;
+            background-repeat: no-repeat;
+                }
+                .box1{
+                    position: relative;
+                }
+                .box2{
+                    position: absolute;
+                    top: 0px;
+                    
+                }
+                .f{
+                    align-content: center;
+                }
