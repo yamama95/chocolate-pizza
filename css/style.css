@@ -1,47 +1,150 @@
-.fa-twitter {
-    background-color: black;
-    color: white;
-}
+
+              
+                  
+#logo{
+    WIDTH: 5%;
     
-    .fa {
-        padding: 20px;
-        font-size: 30px;
-        width: 50px;
-        text-align: center;
-        text-decoration: none;
-        margin: 5px 2px;
-      }
-      
+    MARGIN-TOP: 10%;
+    float: left;
+}
+#de{
+    padding: 10%;
+    MARGIN-LEFT: -4%;
+}
+#icon{
+    margin-left: 40%
+}
+#icon1{
+    margin-left: 1%; 
+}
+strong{
+    color: rgb(180, 170, 170);
+    font-family: serif;
+}
+#del{
+    font-family: 'Pacifico';
+    font-weight: bold;
+    font-size: xx-large;
+}
+#back{
+    margin-top: 10%;
+    width: 80%;
+}
+  
+header{
+    margin: auto;
+    border-bottom: 7px dotted #C7C5C5;
+    width: 80%;
+} 
+#p1 {
+    font-family : 'ZCOOL QingKe HuangYou';
+    font-weight: bold;
+    width: 100%;
+   
+    font-size: xx-large;
+    MARGIN-LEFT: 13%;
+    margin-top: 2%;
+}
+#p2 {
+    color: rgb(180, 170, 170);
+    font-family: serif;
+    MARGIN-LEFT: 13%;
+    margin-bottom: 2%;
+    width: 100%;
+}
+#pic {
+    display: block;
+    margin-left: 12%;
+    
+}
+main{
+    width: 80%;
+    
+}
+img#print {
+    float: left;
+    margin-left: 93%;
+    width: 2%;
+    margin-top: -4%;
+}
+p#print {
+    color: gray;
+    margin-left: 96%;
+    margin-top: -4%;
+}
+p#paragraph {
+    margin-left: 12%;
+    margin-top: 4%;
+    color: gray;
+    width: 100%;
+}
+#eachBox {
+    width: 35%;
+    padding: 2%;
+    float: left;
+    width: 46%;
+    
+}
+#checkbox {
+    background-image: url("https://github.com/LTUC/amman-201d3/blob/master/class-10/lab-a/lab-assets/list-bg.png?raw=true");
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 12%;
+    margin-left: 12%;
+    width: 80%;
+    margin-top: 3%;
+    background-size: cover;
+    height: 39%;
+    width: 35%;
+    padding: 2%;
+    float: left;
+    width: 98%;
+    border-bottom: 7px dotted #C7C5C5;
+}
 
-.fa-rss {
-        background-color: black;
-        color: white;
-      }
+img#footerLogo {
+    float: left;
+  
+}
+footer{
+  width: 80%;
+  margin-left: 10%;
+  text-align: center;
+  color: gray; 
+  font-size: 1.1em;
+  margin: 30;
+  display:  block;
+}
+#small-logo {
+  margin-top: 10%;
+  align-items: center;
+}
+button{
+ 
+      background-color: brown;
+      border: none;
+      color: white;
+      padding: 16px 32px;
+      text-align: center;
+      font-size: 16px;
+      margin: 4px 2px;
+      opacity: 0.6;
+      transition: 0.3s;
+      display: inline-block;
+      text-decoration: none;
+      cursor: pointer;
+      float: right;
+    }
+p#footerpar {
 
-      .fa-reddit {
-        background-color: black;
-        color: white;
-      }
-
-      .fa-flickr {
-        background-color: black;
-        color: white;
-      }
-      
-      #box {
-          background-color: blue;
-            background-image: url("https://github.com/yamama95/amman-201d3/blob/master/class-10/lab-a/lab-assets/list-bg.png?raw=true");
-            background-size:cover ;
-            background-repeat: no-repeat;
-                }
-                .box1{
-                    position: relative;
-                }
-                .box2{
-                    position: absolute;
-                    top: 0px;
-                    
-                }
-                .f{
-                    align-content: center;
-                }
+  margin-top: 50%;
+  width: 72%;
+}
+p#foot {
+ 
+  margin-right: 13%;
+  margin-top: 2%;
+}
+img#pic {
+  width: 101%;
+}
